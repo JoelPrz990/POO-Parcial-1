@@ -27,7 +27,11 @@ public class Parcial1P4 {
         suma= suma + numero[i];
         }
         promedio= suma/10;
-        System.out.println("El promedio de los numeros introducidos es de: "+promedio);
+        System.out.println("El arreglo original es: ");
+        for(int i=0; i<10; i++){
+            System.out.print(numero[i]+", ");
+        }
+        System.out.println("\nEl promedio de los numeros introducidos es de: "+promedio);
     }
     
 }
