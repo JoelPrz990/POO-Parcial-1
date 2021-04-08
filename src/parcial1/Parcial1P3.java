@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 /**
  *
- * @author USER
+ * @author Joel
  */
 public class Parcial1P3 {
     public static void main(String[] args) {
