@@ -59,13 +59,6 @@ public class Parcial1Proyecto {
                 respuesta= sc.nextInt();
                 switch(respuesta){
                     case 1: 
-//                            nombre = new String[tamano];
-//                            apellidoPaterno = new String[tamano];
-//                            apellidoMaterno= new String[tamano];
-//                            telefono = new String[tamano];
-//                            direccion = new String[tamano];
-//                            codigoCliente= new int[tamano];
-//                            edad = new int[tamano];
                             if(espacio==-1){System.out.println("No hay mas espacio");}
                             else{
                                 System.out.print("Ingresa el codigo de cliente: ");
@@ -110,19 +103,19 @@ public class Parcial1Proyecto {
                                            buscarNombre= bf.readLine();
                                            for(int i=0; i<indice; i++){
                                                if(buscarNombre.equals(nombre[i])){
-                                                   System.out.println("El nombre "+nombre[i]+" esta en la posicion: "+(i+1));}}
+                                                   System.out.println("\nEl nombre "+nombre[i]+" esta en la posicion: "+(i+1));}}
                                         break;
                                     case 2:System.out.print("Introduce el codigo a buscar: ");
                                            buscarCodigo= sc.nextInt();
                                            for(int i=0; i<indice; i++){
                                                if(buscarCodigo==codigoCliente[i]){
-                                                   System.out.println("El codigo "+codigoCliente[i]+" esta en la posicion: "+(i+1));
+                                                   System.out.println("\nEl codigo "+codigoCliente[i]+" esta en la posicion: "+(i+1));
                                                }
                                            }
                                         break;
                                     case 3:System.out.println("Saliste del submenu busqueda");
                                         break;
-                                    default: System.out.println("");
+                                    default: System.out.println("No es una opcion del submenu");
                                 }
                     }
                             while(respuesta3 != 3);
