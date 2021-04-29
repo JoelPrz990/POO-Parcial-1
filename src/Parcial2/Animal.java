@@ -7,25 +7,11 @@ package Parcial2;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
-public class Animal {
+public abstract class Animal implements Comportamiento{
     protected String color;
-    
-    public Animal(){
-    this.color="Verde";
-    }
-    public Animal(String color){
-    this.color=color;
-    }
-    Mamifero mamifero = new Mamifero();
-    
-     public String getColor() {
-        return color;
-    }
-
-    public void setColor(String color) {
-        this.color = color;
-    }
-
+    protected int Altura;
+    protected int peso;
+    protected int numeroPatas;
 }

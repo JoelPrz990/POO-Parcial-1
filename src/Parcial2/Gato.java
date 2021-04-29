@@ -7,8 +7,8 @@ package Parcial2;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
-public class Gato extends Felino{
+public abstract class Gato extends Felino{
     
 }

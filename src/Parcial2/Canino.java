@@ -7,8 +7,8 @@ package Parcial2;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
-public class Canino extends Mamifero {
+public abstract class Canino extends Mamifero {
     
 }

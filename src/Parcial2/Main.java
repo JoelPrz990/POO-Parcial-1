@@ -7,13 +7,9 @@ package Parcial2;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
 public class Main {
     public static void main(String[] args) {
-        Animal animal = new Animal();
-        System.out.println(animal.color);
-        Mamifero mamifero = new Mamifero();
-        System.out.println(mamifero.color);
     }
 }

@@ -7,8 +7,12 @@ package Parcial2;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
 public interface Comportamiento {
-    
+    public void comer();
+    public void reproducirse();
+    public void moverse();
+    public void respirar();
+    public void sentir();
 }
