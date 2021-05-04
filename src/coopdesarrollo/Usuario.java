@@ -7,8 +7,8 @@ package coopdesarrollo;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
-public class Usuario extends Persona{
-    implements Admin
+public class Usuario extends Persona implements Administrador{
+    
 }

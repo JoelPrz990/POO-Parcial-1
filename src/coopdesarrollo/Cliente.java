@@ -7,7 +7,7 @@ package coopdesarrollo;
 
 /**
  *
- * @author USER
+ * @author Joel
  */
 public class Cliente extends Persona{
     
