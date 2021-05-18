@@ -3,27 +3,32 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Gato.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Tigre.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Canino.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Mamifero.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/coopdesarrollo/Administrador.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Salmon.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Paloma.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Mamifero.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Canino.java</file>
             <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/coopdesarrollo/Persona.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Perro.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Aguila.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Lobo.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Paloma.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Main.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Salmon.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Felino.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Oviparo.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Pez.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Comportamiento.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Animal.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Ave.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Tutoria/Terrestres.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Oviparo.java</file>
             <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/coopdesarrollo/Usuario.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Animal.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Aguila.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Tigre.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Tutoria/Animales.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Perro.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Trucha.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Comportamiento.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Gato.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/coopdesarrollo/Administrador.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Tutoria/Aguila.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Pez.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Main.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Felino.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Animales/Lobo.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Tutoria/Voladores.java</file>
             <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/coopdesarrollo/Cliente.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Trucha.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Parcial2/Ave.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/POO/src/Tutoria/Vaca.java</file>
         </group>
     </open-files>
 </project-private>
